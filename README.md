@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Alex Dang. I am an aspiring Cybersecuirty Analyst!
 
 <!--
 **Dangitsalex678/Dangitsalex678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
