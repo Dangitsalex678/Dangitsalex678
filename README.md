@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Dangitsalex678/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Dangitsalex678/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Setting up VPNs with Azure](https://github.com/Dangitsalex678/setup-vpn)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Dangitsalex678/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Dangitsalex678/azure-network-protocols)
 
